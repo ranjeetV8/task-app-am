@@ -65,6 +65,24 @@ Backend: Node.js + Express
 
 Database: MongoDB with Mongoose
 
+# Features
+
+ ## Create, Read, Update, and Delete tasks
+
+ ## Sort tasks by due date or priority
+
+ ## View task details in a clean UI
+
+ ## Clean and responsive design
+
+# Author
+## Made by Ranjeet
+   Feel free to contribute, fork, or reach out!
+
+
+   Thanks a lot for your Time...
+
+
 
 
 
