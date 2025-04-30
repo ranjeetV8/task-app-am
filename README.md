@@ -30,9 +30,40 @@ example .env
 
 # API DOCUMENTATION
 
-## Base URL
+# Base URL
+
 http://localhost:3000/api/tasks
 
+Endpoints
+GET /tasks
+Get all tasks
+
+GET /tasks/:id
+Get task by ID
+
+POST /tasks
+Create a new task
+
+```bash
+{
+  "title": "Task Title",
+  "description": "Details...",
+  "dueDate": "2025-05-01",
+  "priority": "High"
+}
+```
+PUT /tasks/:id
+Update a task by ID (same body as POST)
+
+DELETE /tasks/:id
+Delete a task
+
+# Tech Stack
+Frontend: React + Next.js (App Router)
+
+Backend: Node.js + Express
+
+Database: MongoDB with Mongoose
 
 
 
