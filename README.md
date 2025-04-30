@@ -28,5 +28,12 @@ example .env
 
 # Ensure the backend is running before accessing the frontend.
 
+## API DOCUMENTATION
+
+# Base URL
+http://localhost:3000/api/tasks
+
+
+
 
 
