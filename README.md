@@ -1,4 +1,4 @@
-## 1 Setup & Installation
+# 1 Setup & Installation
 
 Clone the repository.
 ```bash
@@ -6,17 +6,17 @@ git clone https://github.com/your-username/task-manager-app.git
 cd task-manager-app
 
 ```
-## 2 Backend Setup (Node.js + Express)
+# 2 Backend Setup (Node.js + Express)
 ```bash
 cd backend
 npm install
 ```
-## 3 Create a .env file
+# 3 Create a .env file
 
 example .env
-# Edit .env with your MongoDB URL and PORT
+## Edit .env with your MongoDB URL and PORT
 
-## 4 Frontend Setup (Next.js)
+# 4 Frontend Setup (Next.js)
 
 ```bash
    cd ../frontend
@@ -24,13 +24,13 @@ example .env
    npm run dev
 ```
 
-# Starts the frontend on: http://localhost:3000
+## Starts the frontend on: http://localhost:3000
 
-# Ensure the backend is running before accessing the frontend.
+## Ensure the backend is running before accessing the frontend.
 
-## API DOCUMENTATION
+# API DOCUMENTATION
 
-# Base URL
+## Base URL
 http://localhost:3000/api/tasks
 
 
