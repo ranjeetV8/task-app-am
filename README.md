@@ -59,7 +59,7 @@ DELETE /tasks/:id
 Delete a task
 
 # Tech Stack
-Frontend: React + Next.js (App Router)
+Frontend: React  (App Router)
 
 Backend: Node.js + Express
 
