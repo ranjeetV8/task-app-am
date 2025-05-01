@@ -2,7 +2,7 @@
 
 Clone the repository.
 ```bash
-git clone https://github.com/your-username/task-manager-app.git
+git clone https://github.com/ranjeetV8/task-manager-app.git
 cd task-manager-app
 
 ```
