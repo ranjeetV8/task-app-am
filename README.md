@@ -77,12 +77,8 @@ Database: MongoDB with Mongoose
 
 # Author
 ## Made by Ranjeet
-   Feel free to contribute, fork, or reach out!
 
 
-   Thanks a lot for your Time...
-
-   this 
 Project Status: Archived / No Longer Maintained
 
 
