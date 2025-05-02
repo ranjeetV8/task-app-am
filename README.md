@@ -44,14 +44,7 @@ Get task by ID
 POST /tasks
 Create a new task
 
-```bash
-{
-  "title": "Task Title",
-  "description": "Details...",
-  "dueDate": "2025-05-01",
-  "priority": "High"
-}
-```
+
 PUT /tasks/:id
 Update a task by ID (same body as POST)
 
